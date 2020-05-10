@@ -1,0 +1,1 @@
+springmvc请求和响应细节,具体请看controller中的代码.
